@@ -5,7 +5,7 @@ using System.Runtime.InteropServices;
 
 // ==================== //
 //                      //
-//      [EZCONIG]       //
+//      [EZCONFIG]      //
 //                      //
 // ==================== //
 
