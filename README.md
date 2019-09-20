@@ -3,12 +3,12 @@
 
 ###### How To Use?
 
-`Initalizing ...`
+###### How to Inıt
 
 ```csharp
 EzConfig.Others.SelectConfig(Application.StartupPath + @"/Example", true);
 ```
-######or
+###### or
 
 ```csharp
 EzConfig.Others.SelectConfig(Application.StartupPath + @"/Example");
@@ -17,7 +17,7 @@ EzConfig.Others.CreateConfig();
 
 ------------
 
-`Read & Write Value`
+###### How To Read & Write Value
 
 ###### How to write value?
 
