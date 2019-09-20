@@ -1,4 +1,4 @@
-### EzConfig
+### EzConfig - Minimal Version
 ------------
 
 ###### How To Use?
