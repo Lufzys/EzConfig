@@ -1,7 +1,7 @@
 ### EzConfig - Minimal Version
 ------------
 
-###### How To Use?
+###### EzConfig is a very effiecently INI Parser Class
 
 ###### How to Inıt
 
